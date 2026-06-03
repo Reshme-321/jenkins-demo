@@ -1,4 +1,3 @@
 #!/bin/bash
-echo "hello jenkins"
-date
-hostname
+echo "testing application"
+exit 1
